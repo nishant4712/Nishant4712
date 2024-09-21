@@ -1,3 +1,9 @@
+<div align=center><img src="assets/GIF/coding.gif" width=150></div>
+
+<h1 align=center>Hello World👋, I'm Rahul!</h1>
+
+<img src="assets/WEBP/header.webp">
+<br>
 # 💫 About Me:
 👋 Hi there! Currently, a BCA student at S.S. Jain Subodh College with a passion for coding and development. 🖥️ Scored 90.2% in Class 12, proving my dedication and hard-working nature. An aspiring front-end developer proficient in HTML and CSS, I also dabble in C language, SQL, and Python.<br><br>Building vibrant, user-friendly interfaces and making the Web more accessible are what gets me excited. Whether it's creating a smooth navigation bar or ensuring responsive design, I enjoy every bit of the creative process in front-end development.<br><br>Strong communication skills complement my technical abilities, helping me convey complex ideas simply and efficiently. Being able to work well in teams and articulate thoughts clearly often sets me apart when collaborating on projects or presenting ideas.<br><br>I'm continually seeking opportunities to grow, learn and apply my knowledge in real-world scenarios. If you're looking for a dedicated developer passionate about technology, let’s connect! 🌐 Feel free to check out my latest project on GitHub.
 
